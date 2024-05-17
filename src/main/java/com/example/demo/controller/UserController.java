@@ -41,7 +41,7 @@ public class UserController {
 
             userService.addUser(name, email, password);
 
-            //  어떤 기능이 필요한지 미리 알수 잇다.
+            //  어떤 기능이 필요한지 미리 알수 잇다.123
             //  회원 정보를 저장한다. 동사는 메소드, 메소드만 선언하고 있는것은 인터페이스.
 
             return "redirect:/welcome"; // 브라우저에게 자동으로 http://localhost.welcome 으로 이동
