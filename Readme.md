@@ -13,7 +13,7 @@
 ... 
                    Spring Core
                    Spring MVC                  Spring JDBC
- 브라우저 ---요청 --->Controller --->Service ---> DAO -------> DB
+ 브라우저 ---요청  --->Controller --->Service ---> DAO -------> DB
           <--- 응답--- 템플릿<---         <---         <---
                        <----- Layer 간에 데이터 전송은 DTO ---->
 ...
